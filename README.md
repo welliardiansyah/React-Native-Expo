@@ -8,6 +8,6 @@ How to use this frontend:
 5. npx expo start or npx start
 
 # Happy Hacking
-CYBER ARMY TEAM
+CYBER ARMY TEAM since 2014
 
 # Created by Docter Codes or Welli Ardiansyah
